@@ -3,7 +3,7 @@ char1 = {
   'hp' = 500,
   'atk' = 25,
   'def' = 10,
-  'elmt' = 'Null'
+  'elmt' = 'Null',
   'class' = 'cavalry'
 }
 
@@ -12,7 +12,7 @@ char2 = {
   'hp' = 700,
   'atk' = 45,
   'def' = 20,
-  'elmt' = 'Null'
+  'elmt' = 'Null',
   'class' = 'knight'
 }
 
@@ -21,7 +21,7 @@ char3 = {
   'hp' = 300,
   'atk' = 15,
   'def' = 30,
-  'elmt' = 'Null'
+  'elmt' = 'Null',
   'class' = 'shielder'
 }
 
@@ -30,6 +30,6 @@ char4 = {
   'hp' = 400,
   'atk' = 40,
   'def' = 20,
-  'elmt' = 'Null'
+  'elmt' = 'Null',
   'class' = 'mage'
 }
