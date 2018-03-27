@@ -184,7 +184,8 @@ def paying_process(amount,station,total_price):
                 balanceFalse(total_price,timeNow,stationList[station-1],amount,counter)
             os.system('cls')
         else :
-            print "The syilling or note is not valid. Try again."
+            print "This machine only accept RM1, RM2, RM5, RM10, RM20, RM50, RM100, RM0.10, RM0.20 and RM0.50"
+            print "Try again"
             raw_input("Press Enter to escape.")
             os.system('cls')
 
