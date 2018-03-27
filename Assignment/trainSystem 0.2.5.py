@@ -6,7 +6,7 @@ import datetime
 timeNow = datetime.date.today()
 stationList = ["Taman Bahagia", "Taman Paramount", "Asia Jaya", "Taman Jaya", "Universiti", "Kerinchi" , "Abdullah Hukum" , "Bangsar", "KL Sentral", "Pasar Seni", "Masjid Jamek", "Dang Wangi","Kampung Baru","KLCC","Ampang Park","Setiawangsa","Terminal Putra"]
 stationPriceList = [0.70,1.00,1.30,1.30,1.30,1.40,1.40,1.40,2.10,2.10,2.30,2.30,2.30,2.40,2.40,2.50,2.50]
-note_syilling_accepted = [ 1 , 5 , 10 , 50 , 100 , 0.1 , 0.2 , 0.5 ]
+note_syilling_accepted = [ 1 , 2 , 5 , 10 , 20 , 50 , 100 , 0.1 , 0.2 , 0.5 ]
 ticket_available = [ 20 , 20 , 15 , 14 , 13 , 10 , 5 , 10 , 12 , 17 , 50 , 20 , 13 , 15 , 16 , 23 , 11 ]
 counter = 1
 
