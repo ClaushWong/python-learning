@@ -2,10 +2,12 @@ import Tkinter
 
 def println():
     x = inputBox.get()
+    #Replace current label into new label
     label["text"] = x
     label.pack()
 
 def bye():
+    #Close the window
     window.destroy()
 
 #create window
@@ -29,3 +31,4 @@ inputBox.pack()
 
 #Show the window
 window.mainloop()
+
